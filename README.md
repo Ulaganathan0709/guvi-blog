@@ -1,7 +1,7 @@
 # USK Blog
 
 ## Live Demo
-Access the live demo of the USK Blog application here: [USK Blog Live Demo](https://your-netlify-url.netlify.app/)
+Access the live demo of the USK Blog application here: [USK Blog Live Demo](https://uskblog.netlify.app/)
 
 ## Introduction
 The USK Blog application is a comprehensive platform designed to provide detailed information about various courses offered by USK Institute. With an intuitive interface, users can navigate through different courses, read detailed descriptions, and learn more about the institute.
@@ -53,10 +53,7 @@ usk-blog/
 ## Setup and Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/usk-blog.git
-   cd usk-blog
-   npm install
-   npm run dev
+   git clone https://github.com/Ulaganathan0709/guvi-blog
 
 ## Contributing
 Contributions to the USK Blog application are welcome! Please feel free to fork the repository, make changes, and submit pull requests.
